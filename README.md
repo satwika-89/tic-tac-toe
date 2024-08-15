@@ -15,16 +15,3 @@ A simple web-based Tic Tac Toe game for two players, implemented using HTML, CSS
 - **CSS**: Styling the application
 - **JavaScript**: Game logic and interactivity
 
-## How to Run
-1. Clone the repository: `git clone https://github.com/username/tictactoe`
-2. Open `index.html` in your web browser.
-
-## Future Enhancements
-- Add a single-player mode with AI opponent.
-- Improve the visual design and add animations.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name](https://github.com/username)
